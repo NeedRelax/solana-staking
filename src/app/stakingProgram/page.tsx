@@ -1,5 +1,5 @@
-import CounterFeature from '@/components/counter/counter-feature'
+import StakingProgramFeature from '@/components/stakingProgram/stakingProgram-feature'
 
 export default function Page() {
-  return <CounterFeature />
+  return <StakingProgramFeature />
 }

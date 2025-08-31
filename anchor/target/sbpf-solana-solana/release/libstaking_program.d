@@ -1,0 +1,1 @@
+/Users/chenwei/git_projects/solana_projects/push_git/solana-staking/anchor/target/sbpf-solana-solana/release/libstaking_program.rlib: /Users/chenwei/git_projects/solana_projects/push_git/solana-staking/anchor/programs/staking_program/src/lib.rs
